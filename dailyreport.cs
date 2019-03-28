@@ -19,5 +19,6 @@ class Program
         Console.WriteLine("How many hours did you study today?");
         byte hours = Convert.ToByte(Console.ReadLine());
         Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
+        Console.Read();
     }
 }
