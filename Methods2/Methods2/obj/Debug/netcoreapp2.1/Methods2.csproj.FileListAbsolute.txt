@@ -1,0 +1,11 @@
+C:\Users\Meera\source\repos\Methods2\Methods2\bin\Debug\netcoreapp2.1\Methods2.deps.json
+C:\Users\Meera\source\repos\Methods2\Methods2\bin\Debug\netcoreapp2.1\Methods2.runtimeconfig.json
+C:\Users\Meera\source\repos\Methods2\Methods2\bin\Debug\netcoreapp2.1\Methods2.runtimeconfig.dev.json
+C:\Users\Meera\source\repos\Methods2\Methods2\bin\Debug\netcoreapp2.1\Methods2.dll
+C:\Users\Meera\source\repos\Methods2\Methods2\bin\Debug\netcoreapp2.1\Methods2.pdb
+C:\Users\Meera\source\repos\Methods2\Methods2\obj\Debug\netcoreapp2.1\Methods2.csprojAssemblyReference.cache
+C:\Users\Meera\source\repos\Methods2\Methods2\obj\Debug\netcoreapp2.1\Methods2.csproj.CoreCompileInputs.cache
+C:\Users\Meera\source\repos\Methods2\Methods2\obj\Debug\netcoreapp2.1\Methods2.AssemblyInfoInputs.cache
+C:\Users\Meera\source\repos\Methods2\Methods2\obj\Debug\netcoreapp2.1\Methods2.AssemblyInfo.cs
+C:\Users\Meera\source\repos\Methods2\Methods2\obj\Debug\netcoreapp2.1\Methods2.dll
+C:\Users\Meera\source\repos\Methods2\Methods2\obj\Debug\netcoreapp2.1\Methods2.pdb
