@@ -1,0 +1,11 @@
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\bin\Debug\netcoreapp2.1\Methods3.deps.json
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\bin\Debug\netcoreapp2.1\Methods3.runtimeconfig.json
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\bin\Debug\netcoreapp2.1\Methods3.runtimeconfig.dev.json
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\bin\Debug\netcoreapp2.1\Methods3.dll
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\bin\Debug\netcoreapp2.1\Methods3.pdb
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\obj\Debug\netcoreapp2.1\Methods3.csprojAssemblyReference.cache
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\obj\Debug\netcoreapp2.1\Methods3.csproj.CoreCompileInputs.cache
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\obj\Debug\netcoreapp2.1\Methods3.AssemblyInfoInputs.cache
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\obj\Debug\netcoreapp2.1\Methods3.AssemblyInfo.cs
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\obj\Debug\netcoreapp2.1\Methods3.dll
+C:\Users\Meera\Documents\GitHub\TTA-VisualStudio\Methods3\Methods3\obj\Debug\netcoreapp2.1\Methods3.pdb
