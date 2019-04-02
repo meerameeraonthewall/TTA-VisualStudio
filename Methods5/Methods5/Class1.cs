@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Methods5
 {
-    class Class1
+    public class Class1
     {
         public void Func1(int x, out int y)
         { 
@@ -12,6 +12,12 @@ namespace Methods5
 
 
         }
+
+        public int Func1(string word)
+        {
+            return word.Length;
+        }
+
     }
 }
 
