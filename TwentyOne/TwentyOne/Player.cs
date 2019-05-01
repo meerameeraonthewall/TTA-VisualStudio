@@ -6,6 +6,8 @@ namespace TwentyOne
 {
     public class Player
     {
+        private List<Card> _hand = new List<Card>();
+
         public Player(string name, int beginningBalance)
         {
             Hand = new List<Card>();
@@ -14,7 +16,7 @@ namespace TwentyOne
         }
 
 
-        public List<Card> Hand { get; set; }
+        public List<Card> Hand { get { return _hand; } set { _hand = value; } }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
@@ -31,6 +33,7 @@ namespace TwentyOne
             else
             {
                 Balance -= amount;
+                return true;
             }
         }
 
