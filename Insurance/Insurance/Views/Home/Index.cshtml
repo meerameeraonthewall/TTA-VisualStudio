@@ -1,0 +1,57 @@
+﻿<div class="row no-gutters m-3">
+    <div class=" card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class=" card-header text-center">
+            <h5 class="m-0">Sign up to our newsletter</h5>
+        </div>
+        <div class=" card-body">
+            @using (Html.BeginForm("Submit", "Home", FormMethod.Post))
+            {
+            <div class="row no-gutters bg-warning">
+                <div class=" form-group col-md-12 ml-5 mt-2">
+                    <input name="firstName" type="text" class="form-control" placeholder="First Name" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="lastName" type="text" class="form-control" placeholder="Last Name" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="email" type="email" class="form-control" placeholder="Email Address" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="birthyr" type="number" class="form-control" placeholder="Birth Year" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="birthmonth" type="number" class="form-control" placeholder="Birth Month" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="birthday" type="number" class="form-control" placeholder="Birth Day" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="caryr" type="number" class="form-control" placeholder="Car Year" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="carmake" type="text" class="form-control" placeholder="Car Make" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="carmodel" type="text" class="form-control" placeholder="Car Model" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <h5>Type "true" if you have gotten a DUI.</h5>
+                    <input name="dui" type="text" class="form-control" placeholder="Otherwise type 'false'"/>
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <input name="tickets" type="number" class="form-control" placeholder="Number of Tickets" />
+                </div>
+                <div class=" form-group col-md-12 ml-5">
+                    <h5 class="col-md-9">Type "true" if you would like full coverage.</h5>
+                    <input name="coverage" type="text" class="form-control" placeholder="Type 'false' if you would like liability coverage." />
+                </div>
+
+
+                <button type="submit" class="btn btn-block btn-primary">Submit</button>
+            </div>
+            }
+
+        </div>
+
+    </div>
+</div>
